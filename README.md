@@ -4,12 +4,17 @@
 
 I want to become a cryptographic researcher.
 
+### Blog
 - [Notion](https://kredsya.notion.site/Front-Page-bf3183441b2a43588e3661bfed2e9bdb)
 - [Github](https://github.com/Kredsya)
+### Computer
 - [solved.ac](https://solved.ac/profile/clock)
 - [BAEKJOON](https://www.acmicpc.net/user/clock)
 - [dreamhack](https://dreamhack.io/users/25572)
+### ETC (Game)
 - [Steam](https://steamcommunity.com/id/21432134/)
+- [Tetr.io](https://ch.tetr.io/u/kredsya)
+- [Jstris](https://jstris.jezevec10.com/u/Clock)
 
 # Experience
 
