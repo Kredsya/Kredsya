@@ -1,4 +1,4 @@
-# Introduction
+# Intro
 
 김도엽, DoYeop Kim
 
@@ -17,9 +17,10 @@ I want to become a cryptographic researcher.
 
 # Education
 
+- [Human IT Curriculum Class](https://hungjin.hs.kr/doc.view?mcode=1810&cate=1810), [Hungjin High School](https://hungjin.hs.kr/?_page=1) (2018.03. ~ 2021.02.)
 - Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )
 
-# Tech Skill
+#  Tech Skill
 
 | Proficiency | Skills |
 | --- | --- |
@@ -48,13 +49,13 @@ I want to become a cryptographic researcher.
 
 ### School Club
 
-- ZeroPage 31st Generation Member & 32nd President (2021.03. ~ )
-- CAUtion 0th Generation Member (2021.05. ~ )
-- Chaos 5th Generation Member (2022.02. ~ )
+- [ZeroPage](https://wiki.zeropage.org/wiki.php) 31st Generation Member & 32nd President (2021.03. ~ )
+- [CAUtion](https://1unaram.notion.site/1unaram/CAUtion-e608f0a8dda34822be5cfeea9e9e6124) 0th Generation Member (2021.05. ~ )
+- [Chaos](https://cauchaos.github.io/) 5th Generation Member (2022.02. ~ )
 
 ### Team
 
-- TeamH4C Official Member (2022.07. ~ )
+- [TeamH4C](https://teamh4c.com/) Official Member (2022.07. ~ )
 
 ### Presentation
 
