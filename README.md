@@ -4,7 +4,7 @@
 
 I want to become a cryptographic researcher.
 
-- [Notion](https://www.notion.so/Front-Page-bf3183441b2a43588e3661bfed2e9bdb)
+- [Notion](https://kredsya.notion.site/Front-Page-bf3183441b2a43588e3661bfed2e9bdb)
 - [Github](https://github.com/Kredsya)
 - [solved.ac](https://solved.ac/profile/clock)
 - [BAEKJOON](https://www.acmicpc.net/user/clock)
