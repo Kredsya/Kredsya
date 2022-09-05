@@ -2,7 +2,7 @@
 
 김도엽, DoYeop Kim
 
-I want to become a cryptographic researcher.
+I want to be a cryptographic researcher.
 
 ### Blog
 - [Notion](https://kredsya.notion.site)
