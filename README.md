@@ -5,7 +5,7 @@
 I want to become a cryptographic researcher.
 
 ### Blog
-- [Notion](https://kredsya.notion.site/Front-Page-bf3183441b2a43588e3661bfed2e9bdb)
+- [Notion](https://kredsya.notion.site)
 - [Github](https://github.com/Kredsya)
 ### Computer
 - [solved.ac](https://solved.ac/profile/clock)
