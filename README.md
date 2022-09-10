@@ -4,6 +4,13 @@
 
 I want to be a cryptographic researcher.
 
+### I’m now doing
+
+- 점자모션그래픽 프로젝트
+    - [https://youtu.be/ZG_9ikvukg8](https://youtu.be/ZG_9ikvukg8)
+    - Software Chapter - Software Cell
+- Basic Cryptography Study Leader
+
 ### Blog
 - [Notion](https://kredsya.notion.site)
 - [Github](https://github.com/Kredsya)
