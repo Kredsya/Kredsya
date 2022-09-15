@@ -12,7 +12,7 @@ I want to be a cryptographic researcher.
 - Basic Cryptography Study Leader
 
 ### Blog
-- [Notion](https://kredsya.notion.site)
+- [Notion](https://kredsya.notion.site) [(Most Recent Change)](https://kredsya.notion.site/Resume-a31096489bb34eaeae152cc77515a7e1)
 - [Github](https://github.com/Kredsya)
 ### Computer
 - [solved.ac](https://solved.ac/profile/clock)
