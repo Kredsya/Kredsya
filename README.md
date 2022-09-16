@@ -37,8 +37,8 @@ I want to be a cryptographic researcher.
 | Proficiency | Skills |
 | --- | --- |
 | Fluent | C, C++ |
-| Possible | Python, Java |
-| Experienced | Unity(C#), Arduino, CoDrone |
+| Possible | Python |
+| Experienced | Java, Unity(C#), Arduino, CoDrone |
 
 # Project
 
