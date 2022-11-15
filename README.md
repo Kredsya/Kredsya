@@ -86,6 +86,7 @@ I want to be a cryptographic researcher.
 - Twenty Years of Attacks on the RSA Cryptosystem, in Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
 - [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), in ZeroPage Devils Camp 2022 (2022.07.14.)
 - Understanding Wiener's Attack in Implementation Side, in ZeroPage OMS (2022.11.09.)
+- RSA Tutorial with Calculator, in 해킹하는 뉴비 부엉이들 (expected in 2022.12.17.)
 
 ### Study Group Leader & Mento
 
