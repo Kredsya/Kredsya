@@ -1,4 +1,4 @@
-# Intro
+# 📝Intro
 
 김도엽, DoYeop Kim
 
@@ -29,16 +29,16 @@ I want to be a cryptographic researcher.
 - [Tetr.io](https://ch.tetr.io/u/kredsya)
 - [Jstris](https://jstris.jezevec10.com/u/Clock)
 
-# Experience
+# 🏢Experience
 
 - undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
 
-# Education
+# 🏫Education
 
 - [Human IT Curriculum Class](https://hungjin.hs.kr/doc.view?mcode=1810&cate=1810), [Hungjin High School](https://hungjin.hs.kr/?_page=1) (2018.03. ~ 2021.02.)
 - Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )
 
-#  Tech Skill
+#  💻Tech Skill
 
 | Proficiency | Skills |
 | --- | --- |
@@ -46,7 +46,7 @@ I want to be a cryptographic researcher.
 | Possible | Python |
 | Experienced | Java, Unity(C#), Arduino, CoDrone |
 
-# Project
+# 📎Project
 
 ### School Project
 
@@ -60,12 +60,12 @@ I want to be a cryptographic researcher.
 - Implement RSA-64 with C/C++
 - Implement Wiener's Attack with Python
 
-# Certificate
+# ☑️Certificate
 
 - Word Processor Specialist, KCCI (2017.11.24. ~ )
 - Computer Specialist in Spreadsheet & Database Level-Ⅱ, KCCI (2017.11.24. ~ )
 
-# Activity
+# 🏃Activity
 
 ### School Club
 
