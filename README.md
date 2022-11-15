@@ -8,8 +8,14 @@ I want to be a cryptographic researcher.
 
 - 점자모션그래픽 프로젝트
     - [https://youtu.be/ZG_9ikvukg8](https://youtu.be/ZG_9ikvukg8)
-    - Software Chapter - Software Cell
-- Basic Cryptography Study Leader
+    - Participate as Software Chapter - Software Cell
+- Basic Cryptography Study Leader, in CAUtion
+- Computer Structure Study Sub Leader, in ZeroPage
+- Reversing Roadmap Study Leader, in CAUtion
+
+- I am ...
+    - Planning to study LLL algorithm
+    - Reading Paper ["Updatable Private Set Intersection"](https://eprint.iacr.org/2021/1349.pdf)
 
 ### Blog
 - [Notion](https://kredsya.notion.site) [(Most Recent Change)](https://kredsya.notion.site/Resume-a31096489bb34eaeae152cc77515a7e1)
@@ -44,13 +50,15 @@ I want to be a cryptographic researcher.
 
 ### School Project
 
-- Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”, in Software Project, of CAU
 - Develop Probabilistic Lightning Progress Determination Algorithm, in autonomous club, of Hungjin High School
+- Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”, in Software Project, of CAU
+
 
 ### Toy Project
 
 - CUI Tetris
-- Implimentation of RSA-64 with C/C++
+- Implement RSA-64 with C/C++
+- Implement Wiener's Attack with Python
 
 # Certificate
 
@@ -75,12 +83,14 @@ I want to be a cryptographic researcher.
 - Make Algorithm of Number Theory used in RSA, in Mathmatical Subject Exploration Competition of Hungjin High School (2020.11.)
 - What I Have Studied to Implement RSA, in ZeroPage OMS (2021.05.19.)
 - How to Solve Baekjoon No.9267, in ZeroPage OMS (2021.09.08.)
-- Twenty Years of Attacks on the RSA Cryptosystem, Part 1, in Cryptography Lab Seminar (2022.07.05)
-- How to Attack RSA Cryptosystem, in ZeroPage Devils Camp 2022 (2022.07.14.)
-- Twenty Years of Attacks on the RSA Cryptosystem, part 2, in Cryptography Lab Seminar (2022.08.23)
+- Twenty Years of Attacks on the RSA Cryptosystem, in Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
+- [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), in ZeroPage Devils Camp 2022 (2022.07.14.)
+- Understanding Wiener's Attack in Implementation Side, in ZeroPage OMS (2022.11.09.)
 
-### Study Group Leader
+### Study Group Leader & Mento
 
 - Cryptography Study Leader, in CAUtion (2021.09. ~ 2021.11.)
 - Sprout Class 2022 ‘거자필반’ (C/C++ Mentoring), in ZeroPage (2022.03. ~ 2022.06.)
 - Basic Cryptography Study Leader, in CAUtion (2022.09. ~ 2022.12.)
+- Computer Structure Study Sub Leader, in ZeroPage (2022.09. ~ 2022.12.)
+- Reversing Roadmap Leader, in CAUtion (2022.09. ~ 2022.12.)
