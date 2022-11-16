@@ -82,7 +82,7 @@ I want to be a cryptographic researcher.
 1. Reorganization of Number Theory used in RSA (to the extent understandable at the high school level), in Mathmatical Subject Exploration Event of Hungjin High School (2019.07.16.)
 2. Make Algorithm of Number Theory used in RSA, in Mathmatical Subject Exploration Competition of Hungjin High School (2020.11.)
 3. What I Have Studied to Implement RSA, in ZeroPage OMS (2021.05.19.)
-4. How to Solve Baekjoon No.9267, in ZeroPage OMS (2021.09.08.)
+4. How to Solve Baekjoon #9267, in ZeroPage OMS (2021.09.08.)
 5. Twenty Years of Attacks on the RSA Cryptosystem, in Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
 6. [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), in ZeroPage Devils Camp 2022 (2022.07.14.)
 7. Understanding Wiener's Attack in Implementation Side, in ZeroPage OMS (2022.11.09.)
