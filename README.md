@@ -88,6 +88,21 @@ I want to be a cryptographic researcher.
 - Understanding Wiener's Attack in Implementation Side, in ZeroPage OMS (2022.11.09.)
 - RSA Tutorial with Calculator, in 해킹하는 뉴비 부엉이들 (expected in 2022.12.17.)
 
+<details>
+<summary>Presentation (Original title)</summary>
+<div markdown="1">
+
+- RSA에 사용된 정수론의 재정리 (고등학생 수준에서 이해할 수 있는 정도로)
+- RSA에 사용된 정수론의 알고리즘화, in 흥진고등학교 수학주제탐구 대회 (2020.11.)
+- RSA를 구현하면서 공부한 것들, in ZeroPage OMS (2021.05.19.)
+- 백준9267번 풀이설명회, in ZeroPage OMS (2021.09.08.)
+- Twenty Years of Attacks on the RSA Cryptosystem, in 암호 연구실 세미나 (2022.07.05., 2022.08.23.)
+- Wiener’s Attack의 구현, in ZeroPage OMS (2022.11.09.)
+- 계산기로 따라하는 RSA, in 해킹하는 뉴비 부엉이들 (expected in 2022.12.17.)
+
+</div>
+</details>
+
 ### Study Group Leader & Mento
 
 - Cryptography Study Leader, in CAUtion (2021.09. ~ 2021.11.)
