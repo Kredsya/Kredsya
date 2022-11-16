@@ -79,7 +79,7 @@ I want to be a cryptographic researcher.
 
 ### Presentation
 
-1. Reorganization of Number Theory used in RSA (to the extent understandable at the high school level), in Mathmatical Subject Exploration Event of Hungjin High School (2019.07.)
+1. Reorganization of Number Theory used in RSA (to the extent understandable at the high school level), in Mathmatical Subject Exploration Event of Hungjin High School (2019.07.16.)
 2. Make Algorithm of Number Theory used in RSA, in Mathmatical Subject Exploration Competition of Hungjin High School (2020.11.)
 3. What I Have Studied to Implement RSA, in ZeroPage OMS (2021.05.19.)
 4. How to Solve Baekjoon No.9267, in ZeroPage OMS (2021.09.08.)
@@ -92,7 +92,7 @@ I want to be a cryptographic researcher.
 <summary>Presentation (Original title)</summary>
 <div markdown="1">
 
-1. RSA에 사용된 정수론의 재정리 (고등학생 수준에서 이해할 수 있는 정도로)
+1. RSA에 사용된 정수론의 재정리 (고등학생 수준에서 이해할 수 있는 정도로) (2019.07.16.)
 2. RSA에 사용된 정수론의 알고리즘화, in 흥진고등학교 수학주제탐구 대회 (2020.11.)
 3. RSA를 구현하면서 공부한 것들, in ZeroPage OMS (2021.05.19.)
 4. 백준9267번 풀이설명회, in ZeroPage OMS (2021.09.08.)
