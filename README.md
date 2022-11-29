@@ -9,9 +9,6 @@ I want to be a cryptographic researcher.
 - 점자모션그래픽 프로젝트
     - [https://youtu.be/ZG_9ikvukg8](https://youtu.be/ZG_9ikvukg8)
     - Participate as Software Chapter - Software Cell
-- Basic Cryptography Study Leader, in CAUtion
-- Computer Structure Study Sub Leader, in ZeroPage
-- Reversing Roadmap Study Leader, in CAUtion
 
 - I am ...
     - Planning to study LLL algorithm
