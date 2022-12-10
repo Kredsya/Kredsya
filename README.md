@@ -83,7 +83,7 @@ I want to be a cryptographic researcher.
 5. Twenty Years of Attacks on the RSA Cryptosystem, in Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
 6. [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), in ZeroPage Devils Camp 2022 (2022.07.14.)
 7. Understanding Wiener's Attack in Implementation Side, in ZeroPage OMS (2022.11.09.)
-8. RSA Tutorial with Calculator, in 해킹하는 뉴비 부엉이들 (expected in 2022.12.17.)
+8. RSA Tutorial with Calculator for Newbies, in 해킹하는 부엉이들 뉴비 웹세미나 (expected in 2022.12.17.)
 
 <details>
 <summary>Presentation (Original title)</summary>
@@ -96,7 +96,7 @@ I want to be a cryptographic researcher.
 5. Twenty Years of Attacks on the RSA Cryptosystem, in 암호 연구실 세미나 (2022.07.05., 2022.08.23.)
 6. RSA를 공격하는 방법, in ZeroPage Devils Camp 2022 (2022.07.14.)
 7. Wiener’s Attack의 구현, in ZeroPage OMS (2022.11.09.)
-8. 계산기로 따라하는 RSA, in 해킹하는 뉴비 부엉이들 (expected in 2022.12.17.)
+8. 입문자를 위한 RSA 계산기로 두드려보기, in 해킹하는 부엉이들 뉴비 웹세미나 (expected in 2022.12.17.)
 
 </div>
 </details>
