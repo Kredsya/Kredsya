@@ -13,6 +13,7 @@ I want to be a cryptographic researcher.
 - I am ...
     - Planning to study LLL algorithm
     - Reading Paper ["Updatable Private Set Intersection"](https://eprint.iacr.org/2021/1349.pdf)
+    - preparing for a presentation "RSA Tutorial with Calculator for Newbies" in "해킹하는 부엉이들 뉴비 웹세미나"
 
 ### Blog
 - [Notion](https://kredsya.notion.site) [(Most Recent Change)](https://kredsya.notion.site/Resume-a31096489bb34eaeae152cc77515a7e1)
@@ -49,7 +50,7 @@ I want to be a cryptographic researcher.
 
 - Develop Probabilistic Lightning Progress Determination Algorithm, in autonomous club, of Hungjin High School
 - Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”, in Software Project, of CAU
-
+- Develop 2D platformer game "Forest of Patience" with C++ DirectX, in Object Oreiented Programming, of CAU
 
 ### Toy Project
 
