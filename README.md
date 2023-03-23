@@ -101,7 +101,7 @@ I want to be a cryptographic researcher.
 3. Things I Learned While Implementing RSA, at ZeroPage OMS (2021.05.19.)
 4. [How to Solve Baekjoon #9267](https://zeropage.org/seminar/119391), at ZeroPage OMS (2021.09.08.)
 5. [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), at ZeroPage Devils Camp 2022 (2022.07.14.)
-6. [Twenty Years of Attacks on the RSA Cryptosystem](https://www.ams.org/journals/notices/199902/boneh.pdf?trk=199902boneh&cat=collection), at Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
+6. Twenty Years of Attacks on the RSA Cryptosystem, at Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
 7. Understanding Wiener’s Attack from the Implementation Side, at ZeroPage OMS (2022.11.09.)
 8. [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), in 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
 9. What Do CTF Organizers Do? (Review from ISANG X CAUtion CTF Organizing Team), at ZeroPage OMS (2023.02.15.)
