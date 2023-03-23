@@ -129,10 +129,10 @@ I want to be a cryptographic researcher.
 
 ### Study Group Leader & Mento
 
-- Cryptography Study Leader, in CAUtion (2021.09. ~ 2021.11.)
-- Sprout Class 2022 ‘거자필반’ (C/C++ Mentoring) Mento, in ZeroPage (2022.03. ~ 2022.06.)
-- Basic Cryptography Study Leader, in CAUtion (2022.09. ~ 2022.12.)
-- Computer Structure Study Sub Leader, in ZeroPage (2022.09. ~ 2022.12.)
-- Reversing Roadmap Study Leader, in CAUtion (2022.09. ~ 2022.12.)
-- LLL algorithm Study Leader, in CAUtion (2023.01. ~ 2023.02.)
-- Sprout Class 2023 ‘즐코’ (C Mentoring) Mento, in ZeroPage (2023.03. ~ 2023.06.)
+- Cryptography Study Leader, at CAUtion (2021.09. ~ 2021.11.)
+- Sprout Class 2022 ‘거자필반’ (C/C++ Mentoring) Mento, at ZeroPage (2022.03. ~ 2022.06.)
+- Basic Cryptography Study Leader, at CAUtion (2022.09. ~ 2022.12.)
+- Computer Structure Study Sub Leader, at ZeroPage (2022.09. ~ 2022.12.)
+- Reversing Roadmap Study Leader, at CAUtion (2022.09. ~ 2022.12.)
+- LLL algorithm Study Leader, at CAUtion (2023.01. ~ 2023.02.)
+- Sprout Class 2023 ‘즐코’ (C Mentoring) Mento, at ZeroPage (2023.03. ~ 2023.06.)
