@@ -11,20 +11,20 @@ I want to be a cryptographic researcher.
 - Blog : [Notion](https://kredsya.notion.site)
 - Algorithm : [solved.ac](https://solved.ac/profile/clock)
 - Education and Experience
-    - Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )
+    - ***Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )***
     - Undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
 - Tech Skill
     - Fluent in C++
 - School Club
-    - [ZeroPage](https://wiki.zeropage.org/wiki.php) 31st Generation Member (2021.03. ~ )
-    - ZeroPage 32nd President (2022.01. ~ 2023.01.)
-    - [CAUtion](https://caution.notion.site/caution/CAUtion-a4760404740c4a769891ab351298fbc3) 0th Generation Member (2021.05. ~ )
-- Team
-    - [TeamH4C](https://teamh4c.com/) Official Member (2022.07. ~ )
+    - [ZeroPage](https://wiki.zeropage.org/wiki.php), 31st Generation Member (2021.03. ~ )
+    - ***ZeroPage, 32nd President (2022.01. ~ 2023.01.)***
+    - [CAUtion](https://caution.notion.site/caution/CAUtion-a4760404740c4a769891ab351298fbc3), 0th Generation Member (2021.05. ~ )
+- ***Team***
+    - ***[TeamH4C](https://teamh4c.com/) Official Member (2022.07. ~ )***
 - major Presentation
-    - [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), in ZeroPage Devils Camp 2022 (2022.07.14.)
-    - [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), in 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
-
+    - [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), at ZeroPage Devils Camp 2022 (2022.07.14.)
+    - [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), at ***해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)***
+    
 </div>
 </details>
 
