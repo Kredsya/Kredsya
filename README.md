@@ -1,6 +1,6 @@
 # 📝Intro
 
-김도엽, DoYeop Kim
+김도엽, DoYeop Kim, Kredsya.
 
 I want to be a cryptographic researcher.
 
@@ -8,74 +8,84 @@ I want to be a cryptographic researcher.
 <summary>Here is Summary</summary>
 <div markdown="1">
 
-- Blog : [Notion](https://kredsya.notion.site)
-- Algorithm : [solved.ac](https://solved.ac/profile/clock)
+- Blog : Notion [https://kredsya.notion.site](https://kredsya.notion.site)
+- Algorithm : solved.ac [https://solved.ac/profile/clock](https://solved.ac/profile/clock) (Platinum 4)
 - Education and Experience
     - ***Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )***
     - Undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
 - Tech Skill
     - Fluent in C++
 - School Club
-    - [ZeroPage](https://wiki.zeropage.org/wiki.php), 31st Generation Member (2021.03. ~ )
+    - ZeroPage, 31st Generation Member (2021.03. ~ )
     - ***ZeroPage, 32nd President (2022.01. ~ 2023.01.)***
-    - [CAUtion](https://caution.notion.site/caution/CAUtion-a4760404740c4a769891ab351298fbc3), 0th Generation Member (2021.05. ~ )
+    - CAUtion, 0th Generation Member (2021.05. ~ )
 - ***Team***
-    - ***[TeamH4C](https://teamh4c.com/) Official Member (2022.07. ~ )***
-- major Presentation
+    - ***TeamH4C Official Member (2022.07.08. ~ )***
+- CTF
+    - ***2023 ISANG X CAUtion CTF (2023.01.13. ~ 2023.01.14.)***
+        - ***Make 4 Crypto problems***
+- major Presentation on YouTube
     - [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), at ZeroPage Devils Camp 2022 (2022.07.14.)
-    - [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), at ***해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)***
-    
+    - [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), at ***제4회 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)***
+
 </div>
 </details>
 
-### What I am now doing
+## What I am now doing
 
-- I am ...
-    - Reading Paper ["Updatable Private Set Intersection"](https://eprint.iacr.org/2021/1349.pdf)
+- I am …
+    - Reading Paper [“VOLE-PSI: Fast OPRF and Circuit-PSI from Vector-OLE”](https://eprint.iacr.org/2021/266)
+    - Getting ready for presentation about OT or UPSI at “제5회 해킹하는 부엉이들 웹세미나”
 
 ### Blog
-- [Notion](https://kredsya.notion.site) [(Most Recent Change)](https://kredsya.notion.site/Resume-a31096489bb34eaeae152cc77515a7e1)
-- [Github](https://github.com/Kredsya)
+
+- Notion [https://kredsya.notion.site](https://kredsya.notion.site)
+- Github [https://github.com/Kredsya](https://github.com/Kredsya)
+
 ### Computer Science
-- [solved.ac](https://solved.ac/profile/clock)
-- [BAEKJOON](https://www.acmicpc.net/user/clock)
-- [dreamhack](https://dreamhack.io/users/25572)
-### ETC (Game)
-- [Steam](https://steamcommunity.com/id/21432134/)
-- [Tetr.io](https://ch.tetr.io/u/kredsya)
-- [Jstris](https://jstris.jezevec10.com/u/Clock)
-- [Chess.com](https://www.chess.com/member/kredsya)
+
+- solved.ac [https://solved.ac/profile/clock](https://solved.ac/profile/clock)
+- Baekjoon [https://www.acmicpc.net/user/clock](https://www.acmicpc.net/user/clock)
+- dreamhack [https://dreamhack.io/users/25572](https://dreamhack.io/users/25572)
+
+### ETC(Game)
+
+- Steam [https://steamcommunity.com/id/21432134/](https://steamcommunity.com/id/21432134/)
+- Tetr.io [https://ch.tetr.io/u/kredsya](https://ch.tetr.io/u/kredsya)
+- Jstris [https://jstris.jezevec10.com/u/Clock](https://jstris.jezevec10.com/u/Clock)
+- Chess.com [https://www.chess.com/member/kredsya](https://www.chess.com/member/kredsya)
 
 # 🏢Experience
 
-- undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
+- Undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
 
 # 🏫Education
 
-- [Human IT Curriculum Class](https://hungjin.hs.kr/doc.view?mcode=1810&cate=1810), [Hungjin High School](https://hungjin.hs.kr/?_page=1) (2018.03. ~ 2021.02.)
+- [Human-centric IT Curriculum Specialization](https://hungjin.hs.kr/doc.view?mcode=1810&cate=1810), [Hungjin High School](https://hungjin.hs.kr/?_page=1) (2018.03. ~ 2021.02.)
 - Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )
 
-#  💻Tech Skill
+# 🖥️Tech Skill
 
 | Proficiency | Skills |
 | --- | --- |
 | Fluent | C, C++ |
-| Possible | Python |
-| Experienced | Java, Unity(C#), Arduino, CoDrone, DirectX 3D, SageMath |
+| Proficient | Python |
+| Experienced (language) | Java, Kotlin, Rust |
+| Experienced (miscellaneous) | Arduino, CoDrone, DirectX 3D, Git, MySQL, SageMath, Unity |
 
 # 📎Project
 
 ### School Project
 
-- Develop Probabilistic Lightning Progress Determination Algorithm, in autonomous club, of Hungjin High School
+- Develop Probabilistic Lightning Progress Determination Algorithm, in interest-based club “Piltong”, of Hungjin High School
 - Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”, in Software Project, of CAU
-- Develop 2D platformer game "Forest of Patience" with C++ DirectX, in Object Oreiented Programming, of CAU
+- Develop 2D platformer game copy of “Forest of Patience” with C++ DirectX, in Object Oriented Programming, of CAU
 
 ### Toy Project
 
 - CUI Tetris
 - Implement RSA-64 with C/C++
-- Implement Wiener's Attack with Python
+- Implement Wiener’s Attack with Python
 
 # ☑️Certificate
 
@@ -87,13 +97,23 @@ I want to be a cryptographic researcher.
 ### School Club
 
 - [ZeroPage](https://wiki.zeropage.org/wiki.php) 31st Generation Member (2021.03. ~ )
-    - 32nd President (2022.01. ~ 2023.01.)
-- [CAUtion](https://1unaram.notion.site/1unaram/CAUtion-e608f0a8dda34822be5cfeea9e9e6124) 0th Generation Member (2021.05. ~ )
-- [Chaos](https://cauchaos.github.io/) 5th Generation Member (2022.02. ~ )
+- ZeroPage 32nd President (2022.01. ~ 2023.01.)
+- [CAUtion](https://www.notion.so/CAUtion-a4760404740c4a769891ab351298fbc3) 0th Generation Member (2021.05. ~ )
+- [Chaos](https://cauchaos.github.io) 5th Generation Member (2022.02. ~ )
 
 ### Team
 
-- [TeamH4C](https://teamh4c.com/) Official Member (2022.07. ~ )
+- [TeamH4C](https://teamh4c.com/) Official Member (2022.07.08. ~ )
+
+### CTF
+
+- 2023 ISANG X CAUtion CTF (2023.01.13. ~ 2023.01.14.)
+    - Participate as problem author and organizing team.
+    - Make 4 Crypto problems (2 of simple substitution, 2 of RSA)
+        1. Caesar Cipher
+        2. Frequency Analysis
+        3. Wiener’s Attack
+        4. Blind Signature
 
 ### Presentation
 
@@ -104,12 +124,13 @@ I want to be a cryptographic researcher.
 5. [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), at ZeroPage Devils Camp 2022 (2022.07.14.)
 6. Twenty Years of Attacks on the RSA Cryptosystem, at Cryptography Lab Seminar (2022.07.05., 2022.08.23.)
 7. Understanding Wiener’s Attack from the Implementation Side, at ZeroPage OMS (2022.11.09.)
-8. [RSA Tutorial with Calculator for Newbies](https://www.youtube.com/watch?v=j_4pZaPFK1k), in 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
+8. [RSA Tutorial with Calculator for Newbies](https://youtu.be/j_4pZaPFK1k), at 제4회 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
 9. What Do CTF Organizers Do? (Review from ISANG X CAUtion CTF Organizing Team), at ZeroPage OMS (2023.02.15.)
 10. Updatable Private Set Intersection, at Cryptography Lab Seminar (2022.10.13., 2023.02.01., 2023.03.24.)
+11. How To Get Intersection Without Knowing the Elements of Two Sets (Reveiw of UPSI), at ZeroPage OMS (2023.05.08.)
 
 <details>
-<summary>Presentation (Original title)</summary>
+<summary>Presentation(Original  Korean title)</summary>
 <div markdown="1">
 
 1. RSA 암호화 과정에서 사용되는 정수론의 재정리(고등학생이 이해할 수 있는 수준으로), at 흥진고등학교 수학주제탐구 행사 (2019.07.16.)
@@ -119,21 +140,23 @@ I want to be a cryptographic researcher.
 5. RSA를 공격하는 방법, at ZeroPage Devils Camp 2022 (2022.07.14.)
 6. Twenty Years of Attacks on the RSA Cryptosystem, at 암호 연구실 세미나 (2022.07.05., 2022.08.23.)
 7. Wiener’s Attack의 구현, at ZeroPage OMS (2022.11.09.)
-8. 입문자를 위한 RSA 계산기로 두드려보기, at 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
+8. 입문자를 위한 RSA 계산기로 두드려보기, at 제4회 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)
 9. CTF 대회 운영진은 무엇을 하나요? (ISANG X CAUtion CTF 운영진 후기), at ZeroPage OMS (2023.02.15.)
-10. Updatable Private Set Intersection, at Cryptohraphy Lab Seminar (2022.10.13., 2023.02.01., 2023.03.24.)
+10. Updatable Private Set Intersection, at 암호 연구실 세미나 (2022.10.13., 2023.02.01., 2023.03.24.)
+11. 두 집합의 원소도 모르면서 교집합 연산하기(를 가장한 UPSI 논문 리뷰), at ZeroPage OMS (2023.05.08.)
 
 </div>
 </details>
-
-# 🔍ETC
+    
+# 🔍 ETC
 
 ### Study Group Leader & Mento
 
 - Cryptography Study Leader, at CAUtion (2021.09. ~ 2021.11.)
-- Sprout Class 2022 ‘거자필반’ (C/C++ Mentoring) Mento, at ZeroPage (2022.03. ~ 2022.06.)
-- Basic Cryptography Study Leader, at CAUtion (2022.09. ~ 2022.12.)
+- Wargame Study, crypto-problem-selection helper, at CAUtion (2022.03. ~ 2022.06.)
+- Sprout Class 2022 ‘거자필반’ (C Mentoring) Mento, at ZeroPage (2022.03. ~ 2022.06.)
+- Elementary Cryptography Study Leader, at CAUtion (2022.09. ~ 2022.12.)
 - Computer Structure Study Sub Leader, at ZeroPage (2022.09. ~ 2022.12.)
-- Reversing Roadmap Study Leader, at CAUtion (2022.09. ~ 2022.12.)
+- Reversing Roadmap Study Leader, at CAUtion (2022.09. ~ 2023.01.)
 - LLL algorithm Study Leader, at CAUtion (2023.01. ~ 2023.02.)
 - Sprout Class 2023 ‘즐코’ (C Mentoring) Mento, at ZeroPage (2023.03. ~ 2023.06.)
