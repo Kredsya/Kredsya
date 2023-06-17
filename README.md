@@ -35,7 +35,11 @@ I want to be a cryptographic researcher.
 
 - I am …
     - Reading Paper [“VOLE-PSI: Fast OPRF and Circuit-PSI from Vector-OLE”](https://eprint.iacr.org/2021/266)
-    - Getting ready for presentation about OT or UPSI at “제5회 해킹하는 부엉이들 웹세미나”
+    - Getting ready for presentation
+        - about UPSI at “제5회 해킹하는 부엉이들 웹세미나”
+        - about OT at “ZeroPage Devils Camp 2023”
+        - about RSA at “CCA White-hat Summer Seminar for newbies”
+- I have applied for the BoB 12th and I am currently waiting for the results, which will be announced on the June 21st.
 
 ### Blog
 
