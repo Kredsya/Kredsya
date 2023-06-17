@@ -73,9 +73,9 @@ I want to be a cryptographic researcher.
 | Proficiency | Skills |
 | --- | --- |
 | Fluent | C, C++ |
-| Proficient | Python |
+| Proficient | Python, Git |
 | Experienced (language) | Java, Kotlin, Rust |
-| Experienced (miscellaneous) | Arduino, CoDrone, DirectX 3D, Git, MySQL, SageMath, Unity |
+| Experienced (miscellaneous) | Arduino, CoDrone, DirectX 3D, MySQL, SageMath, Unity |
 
 # 📎Project
 
