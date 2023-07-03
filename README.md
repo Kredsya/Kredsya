@@ -39,7 +39,7 @@ I want to be a cryptographic researcher.
     - Getting ready for presentation
         - about UPSI at “제5회 해킹하는 부엉이들 웹세미나”
         - about RSA at “2nd CCA White-hat Summer Seminar for newbies”
-    - 12th generation of BoB Security product development
+- KITRI BoB 12th, Security product development
 
 ### Blog
 
