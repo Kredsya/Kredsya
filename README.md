@@ -7,6 +7,7 @@
 - Education and Experience
     - ***Bachelor of Engineering degree expected in [Software](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2021.03. ~ )***
     - Undergraduate researcher in [Cryptography Lab](http://www.hyungtaelee.com/), [Chung-Ang University](https://www.cau.ac.kr/index.do) (2022.03. ~ )
+    - ***KITRI BoB 12th, Security product development (2023.07. ~ 2024.02.)***
 - Tech Skill
     - Fluent in C++
 - School Club
