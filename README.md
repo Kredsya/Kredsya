@@ -28,7 +28,8 @@ I want to be a cryptographic researcher.
 
 # 📎Project
 ### Project in BoB
-- Secure Database Search with RSA-based 1-out-of-n Oblivious Transfer, in 개발톤 of BoB 12th
+- Secure Database Search with RSA-based 1-out-of-n Oblivious Transfer
+- (In Progress) VPN Identify & Block on Router
 
 ### School Project
 - Implement Three Algorithms of Probabilistic Lightning Progress Determination with C++ and Python, in interest-based club “Piltong”, of Hungjin High School
