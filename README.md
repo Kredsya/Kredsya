@@ -59,8 +59,8 @@ I want to be a cryptographic researcher.
 
 ### Team
 - [TeamH4C](https://teamh4c.com/) Official Member (2022.07.08. ~ )
-    - Crypto solver, of C4C
-    - Presenter, of 해킹하는 부엉이들
+    - Crypto solver of C4C
+    - Presenter of 해킹하는 부엉이들
 
 ### CTF
 - 2023 ISANG X CAUtion CTF (2023.01.13. ~ 2023.01.14.)
