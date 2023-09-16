@@ -32,10 +32,10 @@ I want to be a cryptographic researcher.
 - (In Progress) VPN Identify & Block on Router
 
 ### School Project
-- Implement Three Algorithms of Probabilistic Lightning Progress Determination with C++ and Python, in interest-based club “Piltong”, of Hungjin High School
-- Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”, in Software Project, of CAU
-- Develop 2D platformer game [“Forest of Patience”](https://github.com/Kredsya/OOP-Proj4) with C++ DirectX, in Object Oriented Programming, of CAU
-- GUI-based Git Repository Management Service [“QtGit”](https://github.com/Kredsya/qtgit) with Python and PyQt5, in Open Source SW Project, of CAU
+- Implement Three Algorithms of Probabilistic Lightning Progress Determination
+- Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”
+- Develop 2D platformer game [“Forest of Patience”](https://github.com/Kredsya/OOP-Proj4) with C++ DirectX
+- GUI-based Git Repository Management Service [“QtGit”](https://github.com/Kredsya/qtgit) with PyQt5
 
 ### Toy Project
 - [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon)
