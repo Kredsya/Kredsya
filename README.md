@@ -79,11 +79,11 @@ I want to be a cryptographic researcher.
 1. Number Theory Revisited in RSA Encryption Process (at a high school student level), at Hungjin High School Mathmatics Exploration Event (2019.07.16.)<br>
 2. Algorithmization of Number Theory used in RSA, at Hungjin High School Mathmatics Exploration Competition (2020.11.)<br>
 3. Things I Learned While Implementing RSA, at ZeroPage OMS (2021.05.19.)<br>
-4. [How to Solve Baekjoon #9267](https://zeropage.org/seminar/119391), at ZeroPage OMS (2021.09.08.)<br>
-5. [How to Attack RSA Cryptosystem](https://youtu.be/UX4ihuSMkJE), at ZeroPage Devils Camp 2022 (2022.07.14.)<br>
+4. <a href="https://zeropage.org/seminar/119391">How to Solve Baekjoon #9267</a>, at ZeroPage OMS (2021.09.08.)<br>
+5. <a href="https://youtu.be/UX4ihuSMkJE">How to Attack RSA Cryptosystem</a>, at ZeroPage Devils Camp 2022 (2022.07.14.)<br>
 6. Twenty Years of Attacks on the RSA Cryptosystem, at Cryptography Lab Seminar (2022.07.05., 2022.08.23.)<br>
 7. Understanding Wiener’s Attack from the Implementation Side, at ZeroPage OMS (2022.11.09.)<br>
-8. [RSA Tutorial with Calculator for Newbies](https://youtu.be/j_4pZaPFK1k), at 제4회 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)<br>
+8. <a href="https://youtu.be/j_4pZaPFK1k">RSA Tutorial with Calculator for Newbies</a>, at 제4회 해킹하는 부엉이들 뉴비 웹세미나 (2022.12.17.)<br>
 9. What Do CTF Organizers Do? (Review from ISANG X CAUtion CTF Organizing Team), at ZeroPage OMS (2023.02.15.)<br>
 10. Updatable Private Set Intersection, at Cryptography Lab Seminar (2022.10.13., 2023.02.01., 2023.03.24.)<br>
 11. How To Get Intersection Without Knowing the Elements of Two Sets (UPSI Reveiw), at ZeroPage OMS (2023.05.08.)<br>
