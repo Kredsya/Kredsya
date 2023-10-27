@@ -2,6 +2,10 @@
 김도엽, DoYeop Kim, **Kredsya**.   
 I want to be a cryptographic researcher.
 
+# Recent Activity
+We block OpenVPN(TCP) protocol which is one of the VPN protocol.
+[![밥심이당 팀 1차 발표 데모 동영상](http://img.youtube.com/vi/OhqG01gYHzY/0.jpg)](https://youtu.be/OhqG01gYHzY)
+
 ### Blog
 <a href="https://kredsya.notion.site">![Static Badge](https://img.shields.io/badge/Kredsya's_Notion-cccccc?style=for-the-badge&logo=notion&logoColor=000000&link=kredsya.notion.site)</a>
 
