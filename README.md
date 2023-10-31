@@ -50,7 +50,7 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 | --- | --- | --- | --- | --- |
 | [DEF CON CTF Qualifier 2023](https://quals.2023.nautilus.institute/scoreboard.html) | 24th Place / 1828 teams | 2023.05.29 | low contribution | budaejjigae |
 | [BYUCTF 2023](https://ctftime.org/event/1935) | 2nd Place ($75) | 2023.05.20 | low contribution | budaejjigae* |
-| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place (￦160,000) | 2021.06.29. | Subject : [CLI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 (with Ms. Han) |
+| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place (￦160,000) | 2021.06.29. | Subject : [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 (with Ms. Han) |
 
 \* budaejjiage : an united team with 45 members of TeamH4C + PLUS + Demon + TOOR + individuals
 
