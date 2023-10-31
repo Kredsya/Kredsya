@@ -44,8 +44,6 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 
 ### Toy Project
 - [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon)
-- Implement RSA-32 with C/C++, RSA-1024 with Python
-- Implement [Wiener’s Attack](https://github.com/Kredsya/wieners-attack) with Python
 
 # 🏆 Competition
 | Awards | Grade | Date | Note | Team name |
