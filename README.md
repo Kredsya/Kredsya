@@ -2,11 +2,6 @@
 김도엽, DoYeop Kim, **Kredsya**.   
 I want to be a cryptographic researcher.
 
-### Recent Activity
-We block OpenVPN(TCP) protocol which is one of the VPN protocol.
-
-[![밥심이당 팀 1차 발표 데모 동영상](http://img.youtube.com/vi/OhqG01gYHzY/0.jpg)](https://youtu.be/OhqG01gYHzY)
-
 ### Blog
 <a href="https://kredsya.notion.site">![Static Badge](https://img.shields.io/badge/Kredsya's_Notion-cccccc?style=for-the-badge&logo=notion&logoColor=000000&link=kredsya.notion.site)</a>
 
@@ -17,7 +12,7 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 - Chung-Ang University
   - Software (2021.03. ~ )
 - KITRI BoB 12th
-  - Security product development (2023.07. ~ 2023.12.)
+  - Security product development (2023.07. ~ 2024.02.)
 
 ### 🏢Experience
 - Undergraduate researcher
@@ -31,10 +26,14 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 | Experienced (language) | ![Static Badge](https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000) ![Static Badge](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff) |
 | Experienced (CS) | ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000) ![Static Badge](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff) |
 
+# ✏️Paper
+- 「길이기반 VPN 탐지 연구」,  in CISC-W’23
+    - 김도엽, 유지훈, 김대호, 오상원, 권재민, 이경문 (한국정보기술연구원)
+
 # 📎Project
 ### Project in BoB
 - Secure Database Search with RSA-based 1-out-of-n Oblivious Transfer
-- (In Progress) VPN Identify & Block on Router
+- VPN Identify & Block on Router Layer
 
 ### School Project
 - Implement Three Algorithms of Probabilistic Lightning Progress Determination
@@ -50,7 +49,7 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 | --- | --- | --- | --- | --- |
 | [DEF CON CTF Qualifier 2023](https://quals.2023.nautilus.institute/scoreboard.html) | 24th Place / 1828 teams | 2023.05.29 | low contribution | budaejjigae |
 | [BYUCTF 2023](https://ctftime.org/event/1935) | 2nd Place ($75) | 2023.05.20 | low contribution | budaejjigae* |
-| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place (￦160,000) | 2021.06.29. | Subject : [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 (with Ms. Han) |
+| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place (￦160,000) | 2021.06.29. | Subject : [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 |
 
 \* budaejjiage : an united team with 45 members of TeamH4C + PLUS + Demon + TOOR + individuals
 
@@ -59,7 +58,6 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 - [ZeroPage](https://wiki.zeropage.org/wiki.php) 31st Generation Member (2021.03. ~ )
 - ZeroPage 32nd President (2022.01. ~ 2023.01.)
 - [CAUtion](https://www.notion.so/a4760404740c4a769891ab351298fbc3?pvs=21) 0th Generation Member (2021.05. ~ )
-- [Chaos](https://cauchaos.github.io) 5th Generation Member (2022.02. ~ )
 
 ### Team
 - [TeamH4C](https://teamh4c.com/) Official Member (2022.07.08. ~ )
@@ -94,6 +92,8 @@ We block OpenVPN(TCP) protocol which is one of the VPN protocol.
 13. CTF Crypto Introduction: Just the Basics, at CAUtion 2nd Internal Seminar (2023.05.31.)<br>
 14. [OT(Oblivious Transfer) Presentation](https://youtu.be/mZoJiramG78), at ZeroPage Devils Camp 2023 (2023.06.30.)<br>
 15. Exploring the Detailed Process of RSA in Action, at 2023 CCA 2nd Summer Seminar For newbies (2023.08.06.)<br>
+16. Blocking OpenVPN(TCP) Protocol [Demo Video](https://youtu.be/OhqG01gYHzY?si=PysizoS1O-1R0oFm), at BoB Project 1st Presentation (2023.10.28.)<br>
+17. VPN Identify & Block on Router Layer, at BoB Project Final Presentation (2023.12.16.)<br>
 </div>
 </details>
 
