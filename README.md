@@ -12,11 +12,12 @@ I want to be a cryptographic researcher.
 - Chung-Ang University
   - Software (2021.03. ~ )
 - KITRI BoB 12th
-  - Security product development (2023.07. ~ 2024.02.)
+  - Security product development (2023.07. ~ 2024.03.)
 
 ### 🏢Experience
 - Undergraduate researcher
-  - Cryptography Lab of Chung-Ang Univ. (2022.03. ~ 2023.06.)
+  - Cryptography Lab of Chung-Ang Univ. (2022.03. ~ 2023.06.) (2024.03. ~ )
+- KITRI BoB 10th Alumni Association Officer (2024.04. ~ 2025.03.)
 
 # 🖥️Tech Skill
 | Proficiency | Skills |
@@ -44,14 +45,7 @@ I want to be a cryptographic researcher.
 ### Toy Project
 - [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon)
 
-# 🏆 Competition
-| Awards | Grade | Date | Note | Team name |
-| --- | --- | --- | --- | --- |
-| [DEF CON CTF Qualifier 2023](https://quals.2023.nautilus.institute/scoreboard.html) | 24th Place / 1828 teams | 2023.05.29 | low contribution | budaejjigae |
-| [BYUCTF 2023](https://ctftime.org/event/1935) | 2nd Place ($75) | 2023.05.20 | low contribution | budaejjigae* |
-| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place (￦160,000) | 2021.06.29. | Subject : [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 |
 
-\* budaejjiage : an united team with 45 members of TeamH4C + PLUS + Demon + TOOR + individuals
 
 # 🏃Activity
 ### School Club
@@ -67,9 +61,12 @@ I want to be a cryptographic researcher.
 ### CTF
 - 2023 ISANG X CAUtion CTF (2023.01.13. ~ 2023.01.14.)
     - Participate as problem author and organizing team.
-    - Make 4 Crypto problems (2 of simple substitution, 2 of RSA)
-        - using Caesar Cipher, Frequency Analysis, Wiener’s Attack, Blind Signature
-
+    - Make 4 Crypto problems,
+        - about Caesar Cipher, Frequency Analysis, Wiener’s Attack, Blind Signature.
+- 2024 CAUtion X ISANG CTF (2024.01.29)
+    - Participated as problem author.
+    - Made 1 Crypto, 1 Misc problems,
+        - about RSA 1-2 OT, Github Credential Management.
 
 
 ### Presentation
@@ -90,10 +87,12 @@ I want to be a cryptographic researcher.
 11. How To Get Intersection Without Knowing the Elements of Two Sets (UPSI Reveiw), at ZeroPage OMS (2023.05.08.)<br>
 12. Write-up of Crypto Problems of CTF, at Cryptography Lab Seminar (2023.05.26.)<br>
 13. CTF Crypto Introduction: Just the Basics, at CAUtion 2nd Internal Seminar (2023.05.31.)<br>
-14. [OT(Oblivious Transfer) Presentation](https://youtu.be/mZoJiramG78), at ZeroPage Devils Camp 2023 (2023.06.30.)<br>
+14. <a href="https://youtu.be/mZoJiramG78">OT(Oblivious Transfer) Presentation</a>, at ZeroPage Devils Camp 2023 (2023.06.30.)<br>
 15. Exploring the Detailed Process of RSA in Action, at 2023 CCA 2nd Summer Seminar For newbies (2023.08.06.)<br>
-16. Blocking OpenVPN(TCP) Protocol [Demo Video](https://youtu.be/OhqG01gYHzY?si=PysizoS1O-1R0oFm), at BoB Project 1st Presentation (2023.10.28.)<br>
-17. VPN Identify & Block on Router Layer, at BoB Project Final Presentation (2023.12.16.)<br>
+16. Blocking OpenVPN(TCP) Protocol <a href="https://youtu.be/OhqG01gYHzY?si=PysizoS1O-1R0oFm">Demo Video</a>, at BoB Project 1st Presentation (2023.10.28.)<br>
+17. Length-based VPN Detection Research, at <a href="https://manuscriptlink-society-file.s3.ap-northeast-1.amazonaws.com/kiisc/conference/ciscw2023/(%EC%B5%9C%EC%A2%85)+2023+%EB%8F%99%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%B6%81+v4.pdf">CISC-W’23 Interactive Session</a> (2023.12.2.)<br>
+18. VPN Identify & Block on Router Layer, at BoB Project Final Presentation (2023.12.16.)<br>
+19. Let’s kill TCP connection, at ZeroPage OMS (2024.03.20.)<br>
 </div>
 </details>
 
