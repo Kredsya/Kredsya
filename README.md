@@ -28,7 +28,9 @@ I want to be a cryptographic researcher.
 | Experienced (CS) | ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000) ![Static Badge](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff) |
 
 # ✏️Paper
+### Conference
 - 「길이기반 VPN 탐지 연구」,  in CISC-W’23
+    - English title : 「Length-based VPN Detection Research」
     - 김도엽, 유지훈, 김대호, 오상원, 권재민, 이경문 (한국정보기술연구원)
 
 # 📎Project
