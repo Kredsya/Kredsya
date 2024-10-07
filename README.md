@@ -3,20 +3,22 @@
 I want to be a cryptographic researcher.
 
 ### Blog
-<a href="https://kredsya.notion.site">![Static Badge](https://img.shields.io/badge/Kredsya's_Notion-cccccc?style=for-the-badge&logo=notion&logoColor=000000&link=kredsya.notion.site)</a>
+[![Static Badge](https://img.shields.io/badge/Kredsya's_Notion-cccccc?style=for-the-badge&logo=notion&logoColor=000000&link=kredsya.notion.site)](https://kredsya.notion.site)
 
-### Algorithm
+### Badges
+[![Kredsya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kredsya&show_icons=true&theme=tokyonight)](https://github.com/Kredsya)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clock)](https://solved.ac/clock)
+[![Kredsya's Cryptohack stats](https://github.com/user-attachments/assets/14be44dd-003a-4dd6-af04-e5b06f5e2d81)](https://cryptohack.org/user/Kredsya/)
 
 ### 🏫Education
 - Chung-Ang University
   - Software (2021.03. ~ )
-- KITRI BoB 12th
-  - Security product development (2023.07. ~ 2024.03.)
 
 ### 🏢Experience
 - Undergraduate researcher
   - Cryptography Lab of Chung-Ang Univ. (2022.03. ~ 2023.06.) (2024.03. ~ )
+- KITRI BoB 12th
+  - Security product development (2023.07. ~ 2024.03.)
 - KITRI BoB 10th Alumni Association Officer (2024.04. ~ 2025.03.)
 
 # 🖥️Tech Skill
@@ -29,7 +31,7 @@ I want to be a cryptographic researcher.
 
 # ✏️Paper
 ### Conference
-- 「길이기반 VPN 탐지 연구」,  in CISC-W’23
+- 「길이기반 VPN 탐지 연구」,  in [CISC-W’23](https://www.manuscriptlink.com/society/kiisc/conference/ciscw2023)
     - English title : 「Length-based VPN Detection Research」
     - 김도엽, 유지훈, 김대호, 오상원, 권재민, 이경문 (한국정보기술연구원)
 
@@ -47,7 +49,20 @@ I want to be a cryptographic researcher.
 ### Toy Project
 - [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon)
 
+# 🏆 Competition (awarded)
 
+| Name | Grade | Award | Date | Note | Team name |
+| --- | --- | --- | --- | --- | --- |
+| [BYUCTF 2023](https://ctftime.org/event/1935) | 2nd Place | $ 75 | 2023.05.20. | low contribution | budaejjigae |
+| ZeroPage [Sprouthon 2021](https://wiki.zeropage.org/wiki.php/새싹교실/2021) | 1st Place | ￦ 160,000 | 2021.06.29. | Subject : [“CUI Modern Tetris”](https://github.com/Kredsya/TetrisForSproutThon) | 시작이반 |
+
+# 🏇 Competition (not-awarded)
+
+| Name | Grade | Date | Note | Team name |
+| --- | --- | --- | --- | --- |
+| DEF CON CTF [Qualifier 2024](https://quals.2024.nautilus.institute/scoreboard.html) | 26th Place / 1742 teams | 2024.05.04. |  | budaejjigae |
+| 2024 Hacktheon CTF Preliminaries (Beginner category) | 37th Place | 2024.04.27. | got 1,881/6,850 points | ￠ |
+| DEF CON CTF [Qualifier 2023](https://quals.2023.nautilus.institute/scoreboard.html) | 24th Place / 1828 teams | 2023.05.29. | low contribution | budaejjigae |
 
 # 🏃Activity
 ### School Club
@@ -95,10 +110,6 @@ I want to be a cryptographic researcher.
 17. Length-based VPN Detection Research, at <a href="https://manuscriptlink-society-file.s3.ap-northeast-1.amazonaws.com/kiisc/conference/ciscw2023/(%EC%B5%9C%EC%A2%85)+2023+%EB%8F%99%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%B6%81+v4.pdf">CISC-W’23 Interactive Session</a> (2023.12.2.)<br>
 18. VPN Identify & Block on Router Layer, at BoB Project Final Presentation (2023.12.16.)<br>
 19. Let’s kill TCP connection, at ZeroPage OMS (2024.03.20.)<br>
+20. MEDS (Matrix Equivalence Digital Signature), at Cryptography Lab Seminar (2024.07.31.)<br>
 </div>
 </details>
-
-
-# ETC
-
-![Kredsya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kredsya&show_icons=true&theme=tokyonight)
