@@ -44,7 +44,8 @@ I want to be a cryptographic researcher.
 - Implement Three Algorithms of Probabilistic Lightning Progress Determination
 - Expand Functionality of “Sentiment Analysis Program using Twitter4j and StanfordCoreNLP”
 - Develop 2D platformer game [“Forest of Patience”](https://github.com/Kredsya/OOP-Proj4) with C++ DirectX
-- GUI-based Git Repository Management Service [“QtGit”](https://github.com/Kredsya/qtgit) with PyQt5
+- GUI-based Git Repository Management App [“QtGit”](https://github.com/Kredsya/qtgit) with PyQt5
+- Android Kotlin App ["My Refridge"](https://github.com/Mobile-app-development-2024-2/myfridge) with Firebase
 
 ### Toy Project
 - [CUI Modern Tetris](https://github.com/Kredsya/TetrisForSproutThon)
