@@ -8,7 +8,7 @@ I want to be a cryptographic researcher.
 ### Badges
 [![Kredsya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kredsya&show_icons=true&theme=tokyonight)](https://github.com/Kredsya)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clock)](https://solved.ac/clock)
-[![Kredsya's Cryptohack stats](https://github.com/user-attachments/assets/14be44dd-003a-4dd6-af04-e5b06f5e2d81)](https://cryptohack.org/user/Kredsya/)
+[![Kredsya's Cryptohack stats](https://github.com/user-attachments/assets/e585a330-ec75-48c8-88fe-f5d718d6ceeb)](https://cryptohack.org/user/Kredsya/)
 
 ### 🏫Education
 - Chung-Ang University
