@@ -6,7 +6,6 @@ I want to be a cryptographic researcher.
 [![Static Badge](https://img.shields.io/badge/Kredsya's_Notion-cccccc?style=for-the-badge&logo=notion&logoColor=000000&link=kredsya.notion.site)](https://kredsya.notion.site)
 
 ### Badges
-[![Kredsya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kredsya&show_icons=true&theme=tokyonight)](https://github.com/Kredsya)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clock)](https://solved.ac/clock)
 [![Kredsya's Cryptohack stats](https://github.com/user-attachments/assets/e585a330-ec75-48c8-88fe-f5d718d6ceeb)](https://cryptohack.org/user/Kredsya/)
 
